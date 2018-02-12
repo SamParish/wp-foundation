@@ -1,0 +1,29 @@
+{
+    "name": "jb000/wp-foundation",
+    "type": "library",
+    "require": {
+        "illuminate/database": "^5.4",
+        "illuminate/contracts": "^5.4",
+        "illuminate/view": "^5.4",
+        "illuminate/routing": "^5.4",
+        "illuminate/config": "^5.4",
+        "thunderer/shortcode": "^0.6.5",
+        "illuminate/cache": "^5.4",
+        "intervention/image": "^2.3",
+        "filp/whoops": "^2.1",
+        "symfony/var-dumper": "^3.3"
+    },
+    "authors": [
+        {
+            "name": "James Banton",
+            "email": "james-banton@live.co.uk"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "JB000\\WordPress\\": "src"
+        },
+        "files": ["src/helpers.php"]
+
+    }
+}
