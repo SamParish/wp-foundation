@@ -1,5 +1,5 @@
 {
-    "name": "jb000/wp-foundation",
+    "name": "samparish/wp-foundation",
     "type": "library",
     "require": {
         "illuminate/database": "^5.4",
@@ -16,12 +16,14 @@
     "authors": [
         {
             "name": "James Banton",
-            "email": "james-banton@live.co.uk"
+            "email": "james-banton@live.co.uk",
+			"name": "Sam Parish",
+			"email": "sirtalen01@googlemail.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "JB000\\WordPress\\": "src"
+            "SamParish\\WordPress\\": "src"
         },
         "files": ["src/helpers.php"]
 
