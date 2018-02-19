@@ -1,7 +1,7 @@
 <?php
 
 
-namespace JB000\WordPress\Repositories;
+namespace SamParish\WordPress\Repositories;
 
 
 use Illuminate\Contracts\Container\Container;

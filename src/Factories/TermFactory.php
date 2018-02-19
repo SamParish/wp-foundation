@@ -1,15 +1,15 @@
 <?php
 
 
-namespace JB000\WordPress\Factories;
+namespace SamParish\WordPress\Factories;
 
 
 use Carbon\Carbon;
 use Illuminate\Cache\Repository;
 use Illuminate\Database\Eloquent\Collection;
-use JB000\WordPress\Builders\TermTaxonomyBuilder;
-use JB000\WordPress\Models\TermTaxonomy;
-use JB000\WordPress\Repositories\MenuItemHandlerRepository;
+use SamParish\WordPress\Builders\TermTaxonomyBuilder;
+use SamParish\WordPress\Models\TermTaxonomy;
+use SamParish\WordPress\Repositories\MenuItemHandlerRepository;
 
 class TermFactory extends BaseFactory
 {

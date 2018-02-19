@@ -1,7 +1,7 @@
 <?php
 
 
-namespace JB000\WordPress\Handlers;
+namespace SamParish\WordPress\Handlers;
 
 use JB000\WordPress\Contracts\IPostHandler;
 use JB000\WordPress\Models\Post;

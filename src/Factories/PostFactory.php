@@ -1,14 +1,14 @@
 <?php
 
 
-namespace JB000\WordPress\Factories;
+namespace SamParish\WordPress\Factories;
 
 use Carbon\Carbon;
 use Illuminate\Cache\Repository;
 use Illuminate\Support\Collection;
-use JB000\WordPress\Builders\PostBuilder;
-use JB000\WordPress\Models\Post;
-use JB000\WordPress\Repositories\PostHandlerRepository;
+use SamParish\WordPress\Builders\PostBuilder;
+use SamParish\WordPress\Models\Post;
+use SamParish\WordPress\Repositories\PostHandlerRepository;
 
 class PostFactory extends BaseFactory
 {

@@ -1,14 +1,14 @@
 <?php
 
 
-namespace JB000\WordPress;
+namespace SamParish\WordPress;
 
 use Illuminate\Cache\Repository;
-use JB000\WordPress\Factories\PostFactory;
-use JB000\WordPress\Factories\TermFactory;
-use JB000\WordPress\Repositories\MenuItemHandlerRepository;
-use JB000\WordPress\Repositories\PostHandlerRepository;
-use JB000\WordPress\Repositories\ShortCodeRepository;
+use SamParish\WordPress\Factories\PostFactory;
+use SamParish\WordPress\Factories\TermFactory;
+use SamParish\WordPress\Repositories\MenuItemHandlerRepository;
+use SamParish\WordPress\Repositories\PostHandlerRepository;
+use SamParish\WordPress\Repositories\ShortCodeRepository;
 
 class WordPressServiceProvider extends \Illuminate\Support\ServiceProvider
 {

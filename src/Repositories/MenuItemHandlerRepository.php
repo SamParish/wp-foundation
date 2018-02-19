@@ -1,12 +1,12 @@
 <?php
 
 
-namespace JB000\WordPress\Repositories;
+namespace SamParish\WordPress\Repositories;
 
 
 
 use Illuminate\Contracts\Container\Container;
-use JB000\WordPress\Contracts\IMenuItemHandler;
+use SamParish\WordPress\Contracts\IMenuItemHandler;
 
 class MenuItemHandlerRepository extends BaseRepository
 {

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace JB000\WordPress\Traits;
+namespace SamParish\WordPress\Traits;
 
 
 trait CanCastType

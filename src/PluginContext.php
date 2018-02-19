@@ -1,6 +1,6 @@
 <?php
 
-namespace JB000\WordPress;
+namespace SamParish\WordPress;
 
 
 use Illuminate\Config\Repository;

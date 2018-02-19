@@ -1,7 +1,7 @@
 <?php
 
 
-namespace JB000\WordPress\Contracts;
+namespace SamParish\WordPress\Contracts;
 
 
 use Thunder\Shortcode\Shortcode\ShortcodeInterface;

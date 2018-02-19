@@ -1,12 +1,12 @@
 <?php
 
 
-namespace JB000\WordPress\Repositories;
+namespace SamParish\WordPress\Repositories;
 
 
 use Illuminate\Contracts\Container\Container;
-use JB000\WordPress\Contracts\IPostHandler;
-use JB000\WordPress\Models\Post;
+use SamParish\WordPress\Contracts\IPostHandler;
+use SamParish\WordPress\Models\Post;
 
 class PostHandlerRepository extends BaseRepository
 {

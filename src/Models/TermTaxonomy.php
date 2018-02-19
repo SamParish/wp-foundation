@@ -1,10 +1,10 @@
 <?php
 
 
-namespace JB000\WordPress\Models;
+namespace SamParish\WordPress\Models;
 use Illuminate\Support\Collection;
-use JB000\WordPress\Builders\TermTaxonomyBuilder;
-use JB000\WordPress\Traits\CanCastType;
+use SamParish\WordPress\Builders\TermTaxonomyBuilder;
+use SamParish\WordPress\Traits\CanCastType;
 
 
 /**

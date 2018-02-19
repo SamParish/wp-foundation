@@ -1,7 +1,7 @@
 <?php
 
 
-namespace JB000\Wordpress\Factories;
+namespace SamParish\Wordpress\Factories;
 
 
 use Carbon\Carbon;

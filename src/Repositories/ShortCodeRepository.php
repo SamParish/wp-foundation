@@ -1,12 +1,12 @@
 <?php
 
 
-namespace JB000\WordPress\Repositories;
+namespace SamParish\WordPress\Repositories;
 
 
 use Illuminate\Contracts\Container\Container;
-use JB000\WordPress\Contracts\IShortCodeHandler;
-use JB000\WordPress\Models\Post;
+use SamParish\WordPress\Contracts\IShortCodeHandler;
+use SamParish\WordPress\Models\Post;
 use Thunder\Shortcode\Shortcode\ShortcodeInterface;
 use Thunder\Shortcode\ShortcodeFacade;
 
