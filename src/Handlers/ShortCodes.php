@@ -3,9 +3,9 @@
 
 namespace SamParish\WordPress\Handlers;
 
-use JB000\WordPress\Contracts\IPostHandler;
-use JB000\WordPress\Models\Post;
-use JB000\WordPress\Repositories\ShortCodeRepository;
+use SamParish\WordPress\Contracts\IPostHandler;
+use SamParish\WordPress\Models\Post;
+use SamParish\WordPress\Repositories\ShortCodeRepository;
 
 /**
  * Class ShortCodes
