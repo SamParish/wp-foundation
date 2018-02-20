@@ -1,7 +1,7 @@
 <?php
 
 
-namespace JB000\WordPress\Builders;
+namespace SamParish\WordPress\Builders;
 
 
 use Illuminate\Database\Eloquent\Builder;
