@@ -6,7 +6,7 @@ namespace SamParish\WordPress\Models;
 /**
  * Class PostMeta
  *
- * @package JB000\WordPress\Models
+ * @package SamParish\WordPress\Models
  *
  * @property int $metaId
  * @property int $postId
