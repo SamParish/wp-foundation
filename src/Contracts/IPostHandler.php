@@ -1,10 +1,10 @@
 <?php
 
 
-namespace JB000\WordPress\Contracts;
+namespace SamParish\WordPress\Contracts;
 
 
-use JB000\WordPress\Models\Post;
+use SamParish\WordPress\Models\Post;
 
 interface IPostHandler
 {
