@@ -85,7 +85,7 @@ class PostBuilder extends \Illuminate\Database\Eloquent\Builder
      */
     public static function instance()
     {
-        return \JB000\Wordpress\Models\Post::query();
+        return \SamParish\Wordpress\Models\Post::query();
     }
 
 }
