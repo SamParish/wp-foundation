@@ -7,7 +7,7 @@ namespace SamParish\WordPress\Models;
 /**
  * Class Term
  *
- * @package JB000\WordPress\Models
+ * @package SamParish\WordPress\Models
  *
  * @property int $termId
  * @property string $name
