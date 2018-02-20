@@ -7,8 +7,8 @@ use Carbon\Carbon;
 use Illuminate\Database\Capsule\Manager;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Str;
-use JB000\WordPress\Builders\PostBuilder;
-use JB000\WordPress\Traits\CanCastType;
+use SamParish\WordPress\Builders\PostBuilder;
+use SamParish\WordPress\Traits\CanCastType;
 
 
 /**
