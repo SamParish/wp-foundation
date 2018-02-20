@@ -1,7 +1,7 @@
 <?php
 
 
-namespace JB000\WordPress\Models;
+namespace SamParish\WordPress\Models;
 
 /**
  * Class UserMeta
