@@ -1,7 +1,7 @@
 <?php
 
 
-namespace JB000\WordPress\Builders;
+namespace SamParish\WordPress\Builders;
 
 class PostBuilder extends \Illuminate\Database\Eloquent\Builder
 {
