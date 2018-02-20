@@ -27,7 +27,7 @@ if(! function_exists( 'wpView' ))
 	 */
 	function wpView($pluginName, $path,$data=[])
 	{
-		return \JB000\WordPress\PluginContext::instance($pluginName)->view($path,$data);
+		return \SamParish\WordPress\PluginContext::instance($pluginName)->view($path,$data);
 	}
 
 }
@@ -43,7 +43,7 @@ if (! function_exists( 'wpAppPath' )) {
 	 */
 	function wpAppPath($pluginName, $path = '')
 	{
-		$context = \JB000\WordPress\PluginContext::instance($pluginName);
+		$context = \SamParish\WordPress\PluginContext::instance($pluginName);
 		return $context->pluginPath().($path ? DIRECTORY_SEPARATOR.$path : $path);
 	}
 }
